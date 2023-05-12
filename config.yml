@@ -1,0 +1,17 @@
+bot_token: ""
+webhook_server_logs: ""
+webhook_chat: ""
+avatars:
+  #put avatar urls here to show up in your discord server
+ 
+  #example:
+
+  proMinecraftPlayer:
+  	url: "discord avatar url"
+	name: Pro Minecraft Player
+
+  default:
+    url: "https://discord.com/assets/1f0bfc0865d324c2587920a7d80c609b.png"
+    name: Unknown
+channels:
+  chat: discord chat channel id
